@@ -1,5 +1,3 @@
-# Create a README.md file content for the project
-readme_content = """
 # Job Post Management System
 
 This project is a job posting and application management system built using Java and Maven. It provides functionality for administrators to manage job listings, and for job seekers to browse and apply for jobs. 
